@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" >
+
+
+<item android:id="@+id/action_camera_image"
+        android:icon="@drawable/camera_note_icon"
+        android:title="Add Image Note"
+        android:orderInCategory="1"
+        app:showAsAction="never"/>
+
+    <!-- Location Found -->
+    <item android:id="@+id/action_note_add"
+        android:icon="@drawable/plus_icon"
+        android:title="Add Note"
+        android:orderInCategory="2"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"
+        android:orderInCategory="3"
+        app:showAsAction="never" />
+
+
+</menu>

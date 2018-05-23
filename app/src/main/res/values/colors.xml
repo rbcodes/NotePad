@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="colorFAB1">#2196F3</color>
+    <color name="colorFAB2">#E040FB</color>
+
+    <color name="white">#FFF</color>
+    <color name="l_blue">#909BAA</color>
+    <color name="d_blue">#6D7B92</color>
+    <color name="gray">#CCCCCC</color>
+    <color name="d_gray">#666</color>
+    <color name="black">#000</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="bg_login">#26ae90</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="red">#E64A45</color>
+    <color name="blue">#009ECE</color>
+    <color name="green">#9CCF31</color>
+
+    //color name="color_primary">#2196F3  (59A0C5  7FC6D2) ((5D8CE6 859BD6))  ((50A893   65C98C))imp /*android:background="#E8E1D8"*/
+    <color name="color_primary">#50A893</color>
+    //color name="color_primary_dark">#1976D2
+    <color name="color_primary_dark">#65C98C</color>//actionbar
+    <color name="accent_color">#c2110e</color>
+    <color name="black_color">#000000</color>
+
+    //B0FCA9 ED7F66 F2E97E     90CA77 E9B64D  505553
+    <color name="present_color">#90CA77</color>
+    <color name="absent_color">#E64A45</color>
+    <color name="leave_color">#E9B64D</color>
+
+    <color name="light_font">#FBFBFB</color>
+    <color name="grey_font">#ff9e9e9e</color>
+    <color name="text_shadow">#7F000000</color>
+    <color name="text_shadow_white">#FFFFFF</color>
+</resources>
